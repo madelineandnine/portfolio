@@ -38,6 +38,9 @@
     padding-right: 20px; 
     color: #DBBAC2;
   }
+  a.social-icon {
+    text-decoration: none;
+  }
   /* Values
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .values {
